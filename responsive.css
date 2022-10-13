@@ -1,0 +1,14 @@
+@media (min-width:427px) 
+{
+    .w3-showmb1
+    {
+        display:none!important
+    }
+}
+@media (max-width:426px) 
+{
+    .w3-showpc1
+    {
+        display:none!important
+    }
+}
